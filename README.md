@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center"><samp> I uhh... </samp></hp>
 
-<!--
-**foreverskk/foreverskk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdrNjZ4bng4N3hid2JpaW04MW92Z3U4Y25rd3I0ZmFkdjJibmg0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SRx5tBBrTQOBi/giphy.gif">
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><samp>
+I make stuff... I think...
+  </samp>
+</p>
+
+<p align="center">
+    <samp>
+        Can you please go away now?
+    </samp>
+</p>
